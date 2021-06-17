@@ -1,6 +1,8 @@
 # 개요
 학교 중앙현관에 설치할 프로그램입니다.
 
+**[star0202/school](https://github.com/star0202/school) 에서 이동됨**
+
 # 목차
 - [기능](https://github.com/star0202/school#기능)
 - [필요한 모듈](https://github.com/star0202/school#필요한-모듈)
