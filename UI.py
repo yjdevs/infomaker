@@ -4,7 +4,7 @@ import infomaker
 from PyQt5.QtWidgets import *
 import datetime
 
-root = infomaker.infomaker()
+root = infomaker.maker()
 
 # UI창
 class UI(QWidget):

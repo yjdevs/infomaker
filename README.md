@@ -43,14 +43,15 @@ school_menu(str)
 str에 학교 이름을 입력하면 해당 학교의 급식을 불러옵니다.
 
 # 사용 예시
+
 ```python
-import infomaker#모듈 불러오기
+import infomaker  # 모듈 불러오기
 
-root = infomaker.infomaker()#root를 infomaker의 infomaker 객체로 할당한다
+root = infomaker.maker()  # root를 infomaker의 maker 객체로 할당한다
 
-print(root.weather("지역"))#날씨 불러오기
-print(root.music_rank(10))#음원차트 10위까지 불러오기
-print(root.school_menu("학교"))#급식 불러오기
+print(root.weather("지역"))  # 날씨 불러오기
+print(root.music_rank(10))  # 음원차트 10위까지 불러오기
+print(root.school_menu("학교"))  # 급식 불러오기
 ```
 
 # 주의사항

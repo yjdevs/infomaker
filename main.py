@@ -1,7 +1,7 @@
 import infomaker
 import datetime
 
-root =  infomaker.infomaker()
+root =  infomaker.maker()
 
 if __name__ == "__main__":
     while 1:#메인루프
