@@ -6,7 +6,7 @@ class maker:
     def __init__(self):
         self.start = None
     def __str__(self):
-        return "https://github.com/yjdevs/infomaker"
+        return "\nhttps://github.com/yjdevs/infomaker\n"
     def weather(self, location):
         Finallocation = location + ' 날씨'
         CheckDust = []
