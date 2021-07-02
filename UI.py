@@ -23,7 +23,7 @@ class UI(QWidget):
 
         # window title & icon
         self.setWindowTitle('서울 양전초등학교 정보 프로그램')
-        self.setWindowIcon(QIcon('Logo.png'))
+        self.setWindowIcon(QIcon('/asset/Logo.png'))
 
         # background color
         self.setStyleSheet("background-color: white;")
