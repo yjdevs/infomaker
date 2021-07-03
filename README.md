@@ -27,7 +27,7 @@
 [UI.py](https://github.com/yjdevs/infomaker/blob/main/UI.py)
 - 실행 파일입니다(GUI).
 
-[Logo.png](https://github.com/yjdevs/infomaker/blob/main/Logo.png)
+[Logo.png](https://github.com/yjdevs/infomaker/blob/main/asset/Logo.png)
 - 학교 로고 파일입니다.
 ```python
 weather(str)
