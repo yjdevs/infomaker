@@ -4,11 +4,11 @@
 **[star0202/school](https://github.com/star0202/school) 에서 이동됨**
 
 # 목차
-- [기능](https://github.com/star0202/school#기능)
-- [필요한 모듈](https://github.com/star0202/school#필요한-모듈)
-- [가이드](https://github.com/star0202/school#가이드)
-- [사용 예시](https://github.com/star0202/school#사용-예시)
-- [주의사항](https://github.com/star0202/school#주의사항)
+- [기능](https://github.com/yjdevs/infomaker#기능)
+- [필요한 모듈](https://github.com/yjdevs/infomaker#필요한-모듈)
+- [가이드](https://github.com/yjdevs/infomaker#가이드)
+- [사용 예시](https://github.com/yjdevs/infomaker#사용-예시)
+- [주의사항](https://github.com/yjdevs/infomaker#주의사항)
 # 기능
 날씨 불러오기(네이버), 음원차트 불러오기(멜론), 급식 불러오기(네이버), 날짜가 바뀌면 업데이트 시키기.
 
