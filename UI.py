@@ -80,10 +80,12 @@ class UI(QWidget):
 
 if __name__ == '__main__':
     if datetime.date.today() != root.start:
+        print("/Log> root.start was updated")
         root.start = datetime.date.today()
         weather = root.weather("개포동")
         musicRank = root.music_rank(5)
         schoolMenu = root.school_menu("양전초등학교")
+        print("/Log> Data was updated")
         app = QApplication(sys.argv)
         # UI 객체 불러오기
         win = UI(weather, musicRank, schoolMenu)
