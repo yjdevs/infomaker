@@ -18,16 +18,16 @@
 - [PyQt5](https://github.com/PyQt5)
 
 # 가이드
-[infomaker.py](https://github.com/star0202/school/blob/main/infomaker.py)
+[infomaker.py](https://github.com/yjdevs/infomaker/blob/main/infomaker.py)
 - 모듈 파일입니다.
 
-[main.py](https://github.com/star0202/school/blob/main/main.py)
+[main.py](https://github.com/yjdevs/infomaker/blob/main/main.py)
 - 실행 파일입니다(콘솔).
 
-[UI.py](https://github.com/star0202/school/blob/main/UI.py)
+[UI.py](https://github.com/yjdevs/infomaker/blob/main/UI.py)
 - 실행 파일입니다(GUI).
 
-[Logo.png](https://github.com/star0202/school/blob/main/Logo.png)
+[Logo.png](https://github.com/yjdevs/infomaker/blob/main/Logo.png)
 - 학교 로고 파일입니다.
 ```python
 weather(str)
