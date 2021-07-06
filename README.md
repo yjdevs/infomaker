@@ -9,6 +9,7 @@
 - [가이드](https://github.com/yjdevs/infomaker#가이드)
 - [사용 예시](https://github.com/yjdevs/infomaker#사용-예시)
 - [주의사항](https://github.com/yjdevs/infomaker#주의사항)
+
 # 기능
 날씨 불러오기(네이버), 음원차트 불러오기(멜론), 급식 불러오기(네이버), 날짜가 바뀌면 업데이트 시키기.
 
@@ -18,16 +19,16 @@
 - [PyQt5](https://github.com/PyQt5)
 
 # 가이드
-[infomaker.py](https://github.com/yjdevs/infomaker/blob/main/infomaker.py)
+[infomaker.py](https://github.com/yjdevs/infomaker/blob/dev/infomaker.py)
 - 모듈 파일입니다.
 
-[main.py](https://github.com/yjdevs/infomaker/blob/main/main.py)
+[main.py](https://github.com/yjdevs/infomaker/blob/dev/main.py)
 - 실행 파일입니다(콘솔).
 
-[UI.py](https://github.com/yjdevs/infomaker/blob/main/UI.py)
+[UI.py](https://github.com/yjdevs/infomaker/blob/dev/UI.py)
 - 실행 파일입니다(GUI).
 
-[Logo.png](https://github.com/yjdevs/infomaker/blob/main/asset/Logo.png)
+[Logo.png](https://github.com/yjdevs/infomaker/blob/dev/asset/Logo.png)
 - 학교 로고 파일입니다.
 ```python
 weather(str)
@@ -55,8 +56,6 @@ print(root.school_menu("학교"))  # 급식 불러오기
 ```
 
 # 주의사항
-return된 값이 여려줄일 경우 line1\nline2\n처럼 \n이 포함돼 출력됩니다.
+리턴된 값이 여려줄일 경우 line1\nline2\n처럼 \n이 포함돼 리턴됩니다.
 
 날씨의 경우 지역에 따라서 오류가 날 수 있습니다.
-
-오류 발생시 try문에 따라 그 부분만 스킵하게 됩니다.
