@@ -55,8 +55,6 @@ print(root.school_menu("학교"))  # 급식 불러오기
 ```
 
 # 주의사항
-return된 값이 여려줄일 경우 line1\nline2\n처럼 \n이 포함돼 출력됩니다.
+return된 값이 여려줄일 경우 line1\nline2\n처럼 \n이 포함돼 return됩니다.
 
 날씨의 경우 지역에 따라서 오류가 날 수 있습니다.
-
-오류 발생시 try문에 따라 그 부분만 스킵하게 됩니다.
