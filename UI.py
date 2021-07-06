@@ -87,8 +87,6 @@ if __name__ == '__main__':
         schoolMenu = root.school_menu("양전초등학교")
         print("/Log> Data was updated")
         app = QApplication(sys.argv)
-        # UI 객체 불러오기
         win = UI(weather, musicRank, schoolMenu)
-        # 창 보여주기
         win.show()
         app.exec_()
